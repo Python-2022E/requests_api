@@ -1,0 +1,660 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Dobrolyub",
+                "last": "Kandiba"
+            },
+            "location": {
+                "street": {
+                    "number": 7776,
+                    "name": "Akademika Strazheska"
+                },
+                "city": "Zdolbuniv",
+                "state": "Vinnicka",
+                "country": "Ukraine",
+                "postcode": 50049,
+                "coordinates": {
+                    "latitude": "78.3062",
+                    "longitude": "-169.6825"
+                },
+                "timezone": {
+                    "offset": "+4:00",
+                    "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+                }
+            },
+            "email": "dobrolyub.kandiba@example.com",
+            "login": {
+                "uuid": "559cd507-6eed-43de-be1d-c21cbd710c2f",
+                "username": "bigsnake779",
+                "password": "tracey",
+                "salt": "A56YmZ5E",
+                "md5": "efce05b08b1a27f90ef5378a99a3003f",
+                "sha1": "bece781aa8a8e8e902aded430ea817a5522d43a9",
+                "sha256": "5a16186b58b4551def041ee9d266ce18ccf5968567eb3e5992a9210a3e5b9739"
+            },
+            "dob": {
+                "date": "1954-11-06T05:33:58.280Z",
+                "age": 67
+            },
+            "registered": {
+                "date": "2004-02-15T06:01:56.522Z",
+                "age": 18
+            },
+            "phone": "(098) W40-0719",
+            "cell": "(098) X29-1488",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/76.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
+            },
+            "nat": "UA"
+        }
+    ],
+    "info": {
+        "seed": "507861487ab268da",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Marcus",
+                "last": "Jensen"
+            },
+            "location": {
+                "street": {
+                    "number": 6431,
+                    "name": "T\u00f8ndervej"
+                },
+                "city": "Ishoej",
+                "state": "Hovedstaden",
+                "country": "Denmark",
+                "postcode": 41648,
+                "coordinates": {
+                    "latitude": "-46.6942",
+                    "longitude": "-173.9708"
+                },
+                "timezone": {
+                    "offset": "+4:30",
+                    "description": "Kabul"
+                }
+            },
+            "email": "marcus.jensen@example.com",
+            "login": {
+                "uuid": "93aae545-ca15-4498-9e08-835f1aaaff9a",
+                "username": "angrylion551",
+                "password": "toriamos",
+                "salt": "XOgvpLFw",
+                "md5": "428d5a1d8f98843b283a402b107b77fc",
+                "sha1": "010bb6688db65cf53a0705e05a9f9b524cc68403",
+                "sha256": "44c6cbe71c956f7030f3bd7775cdd68a9bbd61d3d95786f4c89740bb989053a2"
+            },
+            "dob": {
+                "date": "1956-11-13T08:52:12.975Z",
+                "age": 65
+            },
+            "registered": {
+                "date": "2008-10-26T02:51:23.287Z",
+                "age": 13
+            },
+            "phone": "16669966",
+            "cell": "93418449",
+            "id": {
+                "name": "CPR",
+                "value": "131156-0264"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/99.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+            },
+            "nat": "DK"
+        }
+    ],
+    "info": {
+        "seed": "02593ed270b7a856",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Lucas",
+                "last": "Hern\u00e1dez"
+            },
+            "location": {
+                "street": {
+                    "number": 7521,
+                    "name": "Corredor Rumania"
+                },
+                "city": "Estero de la Bocana",
+                "state": "Veracruz",
+                "country": "Mexico",
+                "postcode": 62891,
+                "coordinates": {
+                    "latitude": "26.6732",
+                    "longitude": "-142.7237"
+                },
+                "timezone": {
+                    "offset": "+5:30",
+                    "description": "Bombay, Calcutta, Madras, New Delhi"
+                }
+            },
+            "email": "lucas.hernadez@example.com",
+            "login": {
+                "uuid": "96bc84e9-63f5-43f5-af15-63467de1549d",
+                "username": "beautifulfrog472",
+                "password": "vincent1",
+                "salt": "xm0up9uB",
+                "md5": "256f79db86c2ea8fc6d37058207dd4bf",
+                "sha1": "2f3780d68e925374d5841ca06489376637350035",
+                "sha256": "0e9da13960660b2297ce3d44493602f0c113d950b9ce8c6b549f35466878413a"
+            },
+            "dob": {
+                "date": "1958-01-23T14:51:01.896Z",
+                "age": 64
+            },
+            "registered": {
+                "date": "2008-06-04T13:03:20.965Z",
+                "age": 14
+            },
+            "phone": "(648) 803 2584",
+            "cell": "(640) 564 2527",
+            "id": {
+                "name": "NSS",
+                "value": "17 86 72 0403 4"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/43.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+            },
+            "nat": "MX"
+        }
+    ],
+    "info": {
+        "seed": "25edac8df258f8e7",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "\u0622\u0631\u0627\u062f",
+                "last": "\u06af\u0644\u0634\u0646"
+            },
+            "location": {
+                "street": {
+                    "number": 39,
+                    "name": "\u067e\u0627\u0631\u06a9 \u0644\u0627\u0644\u0647"
+                },
+                "city": "\u0627\u0647\u0648\u0627\u0632",
+                "state": "\u06a9\u0631\u0645\u0627\u0646",
+                "country": "Iran",
+                "postcode": 19460,
+                "coordinates": {
+                    "latitude": "20.7221",
+                    "longitude": "-5.5651"
+                },
+                "timezone": {
+                    "offset": "+11:00",
+                    "description": "Magadan, Solomon Islands, New Caledonia"
+                }
+            },
+            "email": "ard.glshn@example.com",
+            "login": {
+                "uuid": "0ef0e2d1-0682-45fc-a9f2-2e2820bdaa2a",
+                "username": "whitecat262",
+                "password": "monkey1",
+                "salt": "axHlt0Vj",
+                "md5": "f0dd9a303cd7f8fbc0a00b592e38286d",
+                "sha1": "bd2b67ee48bc1294f66b19624d4669ccc3b220db",
+                "sha256": "6d05bcca5ca5db5ea6fcdfd734aeb42d7adb6be0736b306e998769858b01196a"
+            },
+            "dob": {
+                "date": "1997-06-15T19:26:01.267Z",
+                "age": 25
+            },
+            "registered": {
+                "date": "2005-04-20T22:21:58.918Z",
+                "age": 17
+            },
+            "phone": "010-78661629",
+            "cell": "0979-906-5315",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/52.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+            },
+            "nat": "IR"
+        }
+    ],
+    "info": {
+        "seed": "715f5965cf0a08f5",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Elias",
+                "last": "Lecomte"
+            },
+            "location": {
+                "street": {
+                    "number": 7195,
+                    "name": "Rue Docteur-Bonhomme"
+                },
+                "city": "Cr\u00e9teil",
+                "state": "Nord",
+                "country": "France",
+                "postcode": 69027,
+                "coordinates": {
+                    "latitude": "-15.4050",
+                    "longitude": "-14.7587"
+                },
+                "timezone": {
+                    "offset": "-8:00",
+                    "description": "Pacific Time (US & Canada)"
+                }
+            },
+            "email": "elias.lecomte@example.com",
+            "login": {
+                "uuid": "382bc4ba-7c3e-4cfd-9eb4-54750c95b214",
+                "username": "sadfish413",
+                "password": "trucker",
+                "salt": "CWo6X71K",
+                "md5": "8cbed6f4b91c13cd8a111de7c20248e0",
+                "sha1": "24ae1b9c492b4fc3878d02f1c218046e34eb8a44",
+                "sha256": "17c84b000582a37fe88466cb56900ed75366a7b0c5e22ad3e998a54cff6046b8"
+            },
+            "dob": {
+                "date": "1960-12-07T17:00:02.928Z",
+                "age": 61
+            },
+            "registered": {
+                "date": "2011-07-23T10:10:13.739Z",
+                "age": 11
+            },
+            "phone": "01-75-37-11-32",
+            "cell": "06-82-42-76-43",
+            "id": {
+                "name": "INSEE",
+                "value": "1601101802079 83"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/34.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+            },
+            "nat": "FR"
+        }
+    ],
+    "info": {
+        "seed": "55d7176f6d570537",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Giovani",
+                "last": "Campos"
+            },
+            "location": {
+                "street": {
+                    "number": 5444,
+                    "name": "Rua da Saudade"
+                },
+                "city": "Atibaia",
+                "state": "Pernambuco",
+                "country": "Brazil",
+                "postcode": 38049,
+                "coordinates": {
+                    "latitude": "-76.5941",
+                    "longitude": "-44.4887"
+                },
+                "timezone": {
+                    "offset": "-4:00",
+                    "description": "Atlantic Time (Canada), Caracas, La Paz"
+                }
+            },
+            "email": "giovani.campos@example.com",
+            "login": {
+                "uuid": "61483194-87c0-4b2f-a5b0-9feca63aed12",
+                "username": "sadbird619",
+                "password": "fishbone",
+                "salt": "FEUaUh73",
+                "md5": "06337aba3a29e3fa1391f30353507674",
+                "sha1": "4e65f8fb15bb305dc8be5620606d9dc093f839f1",
+                "sha256": "e79f9e5c4812b7830ba910ad68ec093f69d98c73217868d66879886dc66801dc"
+            },
+            "dob": {
+                "date": "2000-12-15T13:43:17.843Z",
+                "age": 21
+            },
+            "registered": {
+                "date": "2020-01-26T03:20:10.754Z",
+                "age": 2
+            },
+            "phone": "(63) 2698-0193",
+            "cell": "(57) 9050-7729",
+            "id": {
+                "name": "CPF",
+                "value": "932.076.238-28"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/79.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+            },
+            "nat": "BR"
+        }
+    ],
+    "info": {
+        "seed": "dc7e5e144fc2a7c8",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Alexis",
+                "last": "Mackay"
+            },
+            "location": {
+                "street": {
+                    "number": 1777,
+                    "name": "Stanley Way"
+                },
+                "city": "Westport",
+                "state": "Nunavut",
+                "country": "Canada",
+                "postcode": "M3V 1J7",
+                "coordinates": {
+                    "latitude": "-71.1725",
+                    "longitude": "-84.6034"
+                },
+                "timezone": {
+                    "offset": "-2:00",
+                    "description": "Mid-Atlantic"
+                }
+            },
+            "email": "alexis.mackay@example.com",
+            "login": {
+                "uuid": "1952ef92-85ac-4674-8611-1ccbd5db6e01",
+                "username": "bigbutterfly174",
+                "password": "hamlet",
+                "salt": "FwOWyCrX",
+                "md5": "b6bed3286af4d85ad3b77f0cdd97ed62",
+                "sha1": "775fa5ec06adb25ae7e4883cae6571ff01ccfec9",
+                "sha256": "2c429d069a427401c5ad8deac322ef959069d0ddfefff21bf67348f31ec578ae"
+            },
+            "dob": {
+                "date": "1988-12-18T13:43:30.760Z",
+                "age": 33
+            },
+            "registered": {
+                "date": "2018-05-08T04:20:32.255Z",
+                "age": 4
+            },
+            "phone": "W38 S38-0057",
+            "cell": "Y01 G11-5505",
+            "id": {
+                "name": "SIN",
+                "value": "077673838"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/74.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+            },
+            "nat": "CA"
+        }
+    ],
+    "info": {
+        "seed": "59443001def8aa1d",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Meik",
+                "last": "Wiener"
+            },
+            "location": {
+                "street": {
+                    "number": 9329,
+                    "name": "Ringstra\u00dfe"
+                },
+                "city": "Merzig",
+                "state": "Baden-W\u00fcrttemberg",
+                "country": "Germany",
+                "postcode": 22798,
+                "coordinates": {
+                    "latitude": "-48.5137",
+                    "longitude": "-164.4727"
+                },
+                "timezone": {
+                    "offset": "-10:00",
+                    "description": "Hawaii"
+                }
+            },
+            "email": "meik.wiener@example.com",
+            "login": {
+                "uuid": "af1ec802-943d-4d37-845f-82599ce8d9c8",
+                "username": "goldenwolf569",
+                "password": "datsun",
+                "salt": "LrlZ1nCb",
+                "md5": "8169e8da46384eae634f4624c53c1562",
+                "sha1": "b7e51e5391a4b18bcfa873714545dd9d5baac381",
+                "sha256": "d968aa3aff7e3fff839721488150de9b99d4589a448bb67a5a2fe24dcefd7417"
+            },
+            "dob": {
+                "date": "1954-06-01T09:03:58.408Z",
+                "age": 68
+            },
+            "registered": {
+                "date": "2008-12-27T22:07:15.091Z",
+                "age": 13
+            },
+            "phone": "0689-5867591",
+            "cell": "0172-9456316",
+            "id": {
+                "name": "SVNR",
+                "value": "73 010654 W 148"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/60.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
+            },
+            "nat": "DE"
+        }
+    ],
+    "info": {
+        "seed": "bec1b0f5aebe31e4",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Ritthy",
+                "last": "Anderson"
+            },
+            "location": {
+                "street": {
+                    "number": 2195,
+                    "name": "York Road"
+                },
+                "city": "Listowel",
+                "state": "Leitrim",
+                "country": "Ireland",
+                "postcode": 71362,
+                "coordinates": {
+                    "latitude": "2.0098",
+                    "longitude": "-120.5055"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "ritthy.anderson@example.com",
+            "login": {
+                "uuid": "c063f98a-16b1-419d-a989-add4dda4ff90",
+                "username": "orangemeercat667",
+                "password": "matthew",
+                "salt": "gzShhK2i",
+                "md5": "4e73b46a5e81433674c7f099c47e9463",
+                "sha1": "e58f13138830a10ed104fdbc84b807c868b7f554",
+                "sha256": "c52e0d587f7ff3356f8db12e2c93c822fcef40e514058479e040f7c022cf72f3"
+            },
+            "dob": {
+                "date": "1993-12-21T00:00:23.212Z",
+                "age": 28
+            },
+            "registered": {
+                "date": "2018-12-28T11:15:51.944Z",
+                "age": 3
+            },
+            "phone": "061-862-9950",
+            "cell": "081-399-4311",
+            "id": {
+                "name": "PPS",
+                "value": "7217885T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/27.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+            },
+            "nat": "IE"
+        }
+    ],
+    "info": {
+        "seed": "ead868b23dda18f4",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Jeremy",
+                "last": "Harcourt"
+            },
+            "location": {
+                "street": {
+                    "number": 2408,
+                    "name": "Grand Marais Ave"
+                },
+                "city": "Hampton",
+                "state": "Newfoundland and Labrador",
+                "country": "Canada",
+                "postcode": "V9M 1G5",
+                "coordinates": {
+                    "latitude": "-67.6742",
+                    "longitude": "-175.6591"
+                },
+                "timezone": {
+                    "offset": "+6:00",
+                    "description": "Almaty, Dhaka, Colombo"
+                }
+            },
+            "email": "jeremy.harcourt@example.com",
+            "login": {
+                "uuid": "76c3866d-63b9-46ed-8b4c-c4a2e593c196",
+                "username": "brownpeacock813",
+                "password": "redred",
+                "salt": "ApTLz6ZV",
+                "md5": "d9cfb4c5cd85ff42e71c22e536cea150",
+                "sha1": "49febdfb5fdabcda58f8dd15bbdfe2a9ea0e14ad",
+                "sha256": "13b9a4b51c30babe03d978d495177a8faf4952412f6d58983231d46783daa8b6"
+            },
+            "dob": {
+                "date": "1962-05-15T16:31:53.565Z",
+                "age": 60
+            },
+            "registered": {
+                "date": "2014-12-17T01:28:12.964Z",
+                "age": 7
+            },
+            "phone": "X35 F80-5462",
+            "cell": "C48 R11-5244",
+            "id": {
+                "name": "SIN",
+                "value": "854214095"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/17.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+            },
+            "nat": "CA"
+        }
+    ],
+    "info": {
+        "seed": "8049d85b9f3a7b7d",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
